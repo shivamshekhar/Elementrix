@@ -1,0 +1,13 @@
+Gallium
+Low melting gallium alloys are used in some medical thermometers as non-toxic substitutes for mercury.
+[Ar] 3d10 4s2 4p1
+31
+70
+1.8
+5.904
+29.76
+2204
+136
+31
+28.9
+1875

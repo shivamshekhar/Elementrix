@@ -1,0 +1,13 @@
+Cobalt
+A lustrous, silvery-blue metal. It is magnetic. Cobalt, like iron, can be magnetised and so is used to make magnets.
+[Ar] 3d7 4s2
+27
+59
+1.9
+8.9
+1495
+2927
+152
+29
+63.7
+1735

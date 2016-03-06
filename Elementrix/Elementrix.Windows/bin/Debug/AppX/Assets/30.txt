@@ -1,0 +1,13 @@
+Zinc
+Bluish-silver zinc is a workhorse element, crucial to life and important in many industrial processes that often go unseen. 
+[Ar] 3d10 4s2
+30
+65
+1.65
+7.14
+419.53
+907
+142
+30
+0
+1500

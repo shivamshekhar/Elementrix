@@ -1,0 +1,99 @@
+﻿<Page
+    x:Class="Elementrix.reference"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Elementrix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Background1.jpg"/>
+        </Grid.Background>
+        <Button x:Name="back" Content="Back" HorizontalAlignment="Left" Margin="150,560,0,0" VerticalAlignment="Top" Height="55" Width="151" FontSize="26.667" Tapped="back_Tapped"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="100,400,0,0" VerticalAlignment="Top" Width="245" Height="52" SelectionChanged="comboBox_SelectionChanged">
+            <ComboBoxItem Content="Hydrogen"/>
+            <ComboBoxItem Content="Helium"/>
+            <ComboBoxItem Content="Lithium"/>
+            <ComboBoxItem Content="Beryllium"/>
+            <ComboBoxItem Content="Boron"/>
+            <ComboBoxItem Content="Carbon"/>
+            <ComboBoxItem Content="Nitrogen"/>
+            <ComboBoxItem Content="Oxygen"/>
+            <ComboBoxItem Content="Fluorine"/>
+            <ComboBoxItem Content="Neon"/>
+            <ComboBoxItem Content="Sodium"/>
+            <ComboBoxItem Content="Magnesium"/>
+            <ComboBoxItem Content="Aluminium"/>
+            <ComboBoxItem Content="Sillicon"/>
+            <ComboBoxItem Content="Phosphorus"/>
+            <ComboBoxItem Content="Sulphur"/>
+            <ComboBoxItem Content="Chlorine"/>
+            <ComboBoxItem Content="Argon"/>
+            <ComboBoxItem Content="Potassium"/>
+            <ComboBoxItem Content="Calcium"/>
+            <ComboBoxItem Content="Scandium"/>
+            <ComboBoxItem Content="Titanium"/>
+            <ComboBoxItem Content="Vanadium"/>
+            <ComboBoxItem Content="Chromium"/>
+            <ComboBoxItem Content="Manganese"/>
+            <ComboBoxItem Content="Iron"/>
+            <ComboBoxItem Content="Cobalt"/>
+            <ComboBoxItem Content="Nickel"/>
+            <ComboBoxItem Content="Copper"/>
+            <ComboBoxItem Content="Zinc"/>
+            <ComboBoxItem Content="Gallium"/>
+            <ComboBoxItem Content="Germanium"/>
+            <ComboBoxItem Content="Arsenic"/>
+            <ComboBoxItem Content="Selenium"/>
+            <ComboBoxItem Content="Bromine"/>
+            <ComboBoxItem Content="Krypton"/>
+        </ComboBox>
+
+        <Canvas x:Name="img" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="420
+                " Height="770
+                
+                " RenderTransformOrigin="0.5,0.5" Background="White">
+            <Canvas.RenderTransform>
+                <CompositeTransform/>
+            </Canvas.RenderTransform>
+            <Canvas x:Name="maincard" HorizontalAlignment="Left" Margin="10,10,10,10" VerticalAlignment="Center" Width="400
+                " Height="750
+                
+                " RenderTransformOrigin="0.5,0.5" Background="Black">
+                <Image x:Name="image" Height="320" Canvas.Left="10
+                   " Canvas.Top="15" Width="320"/>
+                <TextBlock x:Name="NameOfElement" Canvas.Left="100
+                       " TextWrapping="Wrap" Canvas.Top="343" Height="44" Width="200" FontSize="33.333" FontFamily="AR DESTINE" TextAlignment="Center"/>
+                <TextBlock x:Name="EConfig" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="387" FontSize="13.333" FontFamily="Arial"/>
+                <TextBlock x:Name="trivia" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="626" Height="114" Width="370" FontSize="16" SelectionHighlightColor="#FF5D29D4" Foreground="White" FontFamily="Arial Black" FontStyle="Italic"/>
+                <TextBlock x:Name="AN" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="29" Height="49" Width="55" FontSize="42.667" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Button x:Name="atomicn" Content="Atomic number :" Canvas.Left="12" Canvas.Top="413" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="atomicw" Content="Atomic Weight :" Canvas.Left="12" Canvas.Top="453" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="electronegativity" Content="Electronegativity :" Canvas.Left="12" Canvas.Top="493" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="density" Content="Density(g/cm3) :" Canvas.Left="12" Canvas.Top="533" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="meltingpoint" Content="Melting Point(C) :" Canvas.Left="12" Canvas.Top="573" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <!---->
+                <Button x:Name="boilingpoint" Content="Boiling Point(C) :" Canvas.Left="202" Canvas.Top="413" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="atomicradius" Content="Atomic Radius(pm) :" Canvas.Left="202" Canvas.Top="453" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1" FontSize="13.333"/>
+                <Button x:Name="nofisotopes" Content="No of Isotopes:" Canvas.Left="202" Canvas.Top="493" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+                <Button x:Name="electronaffinity" Content="Electron Affinity(kJ/mol):" Canvas.Left="202" Canvas.Top="533" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1" FontSize="10.667"/>
+                <Button x:Name="yod" Content="Year of Discovery:" Canvas.Left="202" Canvas.Top="573" Height="40" Width="190
+                    " Background="Black" BorderThickness="1,1,1,1"/>
+            </Canvas>
+        </Canvas>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="50,250,0,0" TextWrapping="Wrap" Text="Click on the dropdown box to select and view an element!" VerticalAlignment="Top" FontSize="26.667" Height="76" Width="365"/>
+        <MediaElement x:Name="intromusic" HorizontalAlignment="Left" Height="100" Margin="568,730,0,0" VerticalAlignment="Top" Width="100" Source="Assets/sun-after-rain.mp3" Volume="0.1" IsLooping="True"/>
+         
+    </Grid>
+</Page>

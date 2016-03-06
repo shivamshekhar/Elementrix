@@ -1,0 +1,1 @@
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Elementrix.Windows.csproj;neutral

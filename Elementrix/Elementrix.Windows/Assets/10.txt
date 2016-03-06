@@ -1,0 +1,13 @@
+Neon
+Neon (Ne) is a colorless, non-metallic, very inert gas with an atomic number of ten. This member of the noble gas classification glows reddish orange in a vacuum tube.While experimenting on liquid air, Sir William Ramsay and Morris Travers discovered neon in 1898.
+[He] 2s2 2p6
+10
+20
+NA
+0.9
+-248.59
+-246.08
+38
+19
+0
+1898

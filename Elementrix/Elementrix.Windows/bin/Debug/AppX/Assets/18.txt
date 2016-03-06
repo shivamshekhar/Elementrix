@@ -1,0 +1,13 @@
+Argon
+When argon is used as a gas laser it emits a blue-green color. The argon gas in the Earth's atmosphere comes from the radioactive decay of potassium.
+[Ne] 3s2 3p6
+18
+40
+NA
+1.784
+-189.3
+-185.8
+71
+24
+0
+1894

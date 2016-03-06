@@ -1,0 +1,13 @@
+Copper
+Shiny, reddish copper was the first metal ever manipulated by humans, and it remains an important metal in industry today.
+[Ar] 3d10 4s1
+29
+64
+1.9
+8.92
+1084.62
+2927
+145
+29
+118.4
+-8000

@@ -1,0 +1,91 @@
+﻿<Page
+    x:Class="Elementrix.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Elementrix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Rectangle x:ConnectionId='1' x:Name="backrectangle" Fill="Yellow" HorizontalAlignment="Left" Height="450" Margin="61,66,0,0" Stroke="Black" VerticalAlignment="Top" Width="300" Visibility="Collapsed"                              >
+            <Rectangle.Projection>
+                <PlaneProjection RotationY="90"/>
+            </Rectangle.Projection>
+            <Rectangle.RenderTransform>
+                <CompositeTransform />
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Rectangle x:ConnectionId='2' x:Name="frontrectangle" Fill="OrangeRed" HorizontalAlignment="Left" Height="450" Margin="61,66,0,0" Stroke="Black" VerticalAlignment="Top" Width="300"                               >
+            <Rectangle.Projection>
+                <PlaneProjection/>
+            </Rectangle.Projection>
+            <Rectangle.RenderTransform>
+                <CompositeTransform />
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Image x:ConnectionId='3' x:Name="cardback" HorizontalAlignment="Left" Height="824" Margin="792,66,0,0" VerticalAlignment="Top" Width="726" Source="Assets/Periodic table Background3.png" Visibility="Collapsed"                         >
+            <Image.Projection>
+                <PlaneProjection RotationY="90"/>
+            </Image.Projection>
+            <Image.RenderTransform>
+                <CompositeTransform />
+            </Image.RenderTransform>
+        </Image>
+        <Image x:ConnectionId='4' x:Name="cardfront" HorizontalAlignment="Left" Height="824" Margin="792,66,0,0" VerticalAlignment="Top" Width="726" Source="Assets/Periodic table Background4.png"                          >
+            <Image.Projection>
+                <PlaneProjection/>
+            </Image.Projection>
+            <Image.RenderTransform>
+                <CompositeTransform />
+            </Image.RenderTransform>
+        </Image>
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="VisualStateGroup">
+
+                <!--This animation will be invoked when you tap on the front rectangle-->
+                <VisualState x:Name="FlipCardFront" >
+                    <Storyboard >
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Projection).(PlaneProjection.RotationY)" Storyboard.TargetName="cardfront">
+                            <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                            <EasingDoubleKeyFrame KeyTime="0:0:0.25" Value="90"/>
+                        </DoubleAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="cardback">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.25">
+                                <DiscreteObjectKeyFrame.Value>
+                                    <Visibility>Visible</Visibility>
+                                </DiscreteObjectKeyFrame.Value>
+                            </DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Projection).(PlaneProjection.RotationY)" Storyboard.TargetName="cardback">
+                            <EasingDoubleKeyFrame KeyTime="0:0:0.25" Value="-90"/>
+                            <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0"/>
+                        </DoubleAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!--This animation will be invoked when you tap on the backward rectangle-->
+                <VisualState x:Name="FlipCardBack" >
+                    <Storyboard >
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Projection).(PlaneProjection.RotationY)" Storyboard.TargetName="cardback">
+                            <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                            <EasingDoubleKeyFrame KeyTime="0:0:.25" Value="-90"/>
+                        </DoubleAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="cardback">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:.25">
+                                <DiscreteObjectKeyFrame.Value>
+                                    <Visibility>Visible</Visibility>
+                                </DiscreteObjectKeyFrame.Value>
+                            </DiscreteObjectKeyFrame>
+                        </ObjectAnimationUsingKeyFrames>
+                        <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Projection).(PlaneProjection.RotationY)" Storyboard.TargetName="cardfront">
+                            <EasingDoubleKeyFrame KeyTime="0:0:.25" Value="90"/>
+                            <EasingDoubleKeyFrame KeyTime="0:0:.5" Value="0"/>
+                        </DoubleAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</Page>
+

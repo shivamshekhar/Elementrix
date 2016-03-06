@@ -1,0 +1,13 @@
+Aluminium
+This element is the second-most abundant metallic element in Earth's crust after silicon. It's used in soda cans and other packaging, in aircraft and automobiles, and even in that snazzy iPhone 6.
+[Ne] 3s2 3p1
+13
+27
+1.6
+2.7
+660
+2519
+118
+22
+42.5
+1825

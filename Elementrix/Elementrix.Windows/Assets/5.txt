@@ -1,0 +1,13 @@
+Boron
+Produced entirely by cosmic ray spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in both the Solar system and the Earth's crust.
+[He] 2s2 2p1
+5
+11
+2.0
+2.460
+2075
+4000
+87
+13
+26.7
+1808

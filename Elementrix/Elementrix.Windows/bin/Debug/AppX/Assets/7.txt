@@ -1,0 +1,13 @@
+Nitrogen
+Nitrogen (N) has an atomic number of seven and makes up about 78.05% of the Earth's atmosphere by volume. It is an odorless, colorless, and mostly inert gas, and continues to be colorless and odorless at a liquid state. 
+[He] 2s2 2p2
+7
+14
+3
+1.251
+-210.10
+-195.80
+56
+16
+7
+1772
