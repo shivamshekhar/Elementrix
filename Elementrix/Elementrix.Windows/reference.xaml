@@ -49,6 +49,10 @@
             <ComboBoxItem Content="Selenium"/>
             <ComboBoxItem Content="Bromine"/>
             <ComboBoxItem Content="Krypton"/>
+            <ComboBoxItem Content="Rubidium"/>
+            <ComboBoxItem Content="Strontium"/>
+            <ComboBoxItem Content="Yttrium"/>
+            <ComboBoxItem Content="Zirconium"/>
         </ComboBox>
 
         <Canvas x:Name="img" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="420

@@ -26,9 +26,10 @@ namespace Elementrix
     /// </summary>
     public sealed partial class MainGame : Page
     {
-        int[] usercardorder = new int[36];
-        int[] cpucardorder = new int[36];
-        int numberofusercards = 18, numberofcpucards = 18, totalcards = 36, cpucall = 0;
+        const int totalcards = 40;
+        int[] usercardorder = new int[totalcards];
+        int[] cpucardorder = new int[totalcards];
+        int numberofusercards = totalcards/2, numberofcpucards = totalcards/2, cpucall = 0;
         double[] usercurrentcardstats = new double[10];
         double[] cpucurrentcardstats = new double[10];
         bool isuserturn, iscpucardflipped = false, isuserturncomplete = false, ismusicplaying = true;

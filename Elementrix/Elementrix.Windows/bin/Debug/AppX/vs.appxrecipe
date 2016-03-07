@@ -22,13 +22,13 @@
     <AppXManifest Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-05T20:12:53.521</Modified>
+      <Modified>2016-03-07T12:42:19.488</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\Elementrix.Windows.exe">
       <PackagePath>Elementrix.Windows.exe</PackagePath>
-      <Modified>2016-03-05T21:27:59.576</Modified>
+      <Modified>2016-03-07T12:42:18.832</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\1.jpg">
       <PackagePath>Assets\1.jpg</PackagePath>
@@ -150,9 +150,25 @@
       <PackagePath>Assets\36.jpg</PackagePath>
       <Modified>2016-03-04T05:46:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\37.JPG">
+      <PackagePath>Assets\37.JPG</PackagePath>
+      <Modified>2016-03-07T12:23:23.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\38.jpg">
+      <PackagePath>Assets\38.jpg</PackagePath>
+      <Modified>2016-03-07T12:23:23.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\39.jpg">
+      <PackagePath>Assets\39.jpg</PackagePath>
+      <Modified>2016-03-07T12:40:57.646</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\4.jpg">
       <PackagePath>Assets\4.jpg</PackagePath>
       <Modified>2016-03-04T05:46:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\40.jpg">
+      <PackagePath>Assets\40.jpg</PackagePath>
+      <Modified>2016-03-07T12:40:57.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.jpg">
       <PackagePath>Assets\5.jpg</PackagePath>
@@ -298,9 +314,25 @@
       <PackagePath>Assets\36.txt</PackagePath>
       <Modified>2016-03-04T05:46:12.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\37.txt">
+      <PackagePath>Assets\37.txt</PackagePath>
+      <Modified>2016-03-07T12:23:23.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\38.txt">
+      <PackagePath>Assets\38.txt</PackagePath>
+      <Modified>2016-03-07T12:28:15.297</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\39.txt">
+      <PackagePath>Assets\39.txt</PackagePath>
+      <Modified>2016-03-07T12:40:57.649</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\4.txt">
       <PackagePath>Assets\4.txt</PackagePath>
       <Modified>2016-03-04T05:46:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\40.txt">
+      <PackagePath>Assets\40.txt</PackagePath>
+      <Modified>2016-03-07T12:40:57.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.txt">
       <PackagePath>Assets\5.txt</PackagePath>
@@ -471,7 +503,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\reference.xbf">
       <PackagePath>reference.xbf</PackagePath>
-      <Modified>2016-03-05T21:27:58.963</Modified>
+      <Modified>2016-03-07T12:42:18.344</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\Shuffle.xbf">
       <PackagePath>Shuffle.xbf</PackagePath>
@@ -479,7 +511,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-05T20:12:52.243</Modified>
+      <Modified>2016-03-07T12:42:19.201</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

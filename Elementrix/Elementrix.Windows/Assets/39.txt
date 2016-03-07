@@ -1,0 +1,14 @@
+Yttrium
+Yttrium is used in making phosphors, particularly the red phosphors used in television set cathode ray tube (CRT) displays and in LEDs. It is also used in the production of electrodes, electrolytes, electronic filters, lasers, superconductors and in various other medical applications.
+[Kr]4d15s2
+39
+89
+1.2
+4.472
+1526
+3345
+212
+33
+29.6
+1794
+

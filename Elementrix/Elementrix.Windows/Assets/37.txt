@@ -1,0 +1,13 @@
+Rubidium
+Rubidium is a soft, silvery-white metallic element and is highly reactive, with properties similar to those of other alkali metals, such as very rapid oxidation in air. Rubidium burns with a purple colored flame.
+[Kr]5s1
+37
+85
+0.8
+1.532
+39.31
+688
+265
+32
+46.9
+1861
