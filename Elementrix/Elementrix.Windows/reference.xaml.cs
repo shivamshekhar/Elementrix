@@ -24,6 +24,7 @@ namespace Elementrix
     /// </summary>
     public sealed partial class reference : Page
     {
+        const int numberofstats = 14;
         public reference()
         {
             this.InitializeComponent();
@@ -47,10 +48,10 @@ namespace Elementrix
             {
                 StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
                 Stream stream = await file.OpenStreamForReadAsync();
-                string[] stats = new string[13];
+                string[] stats = new string[numberofstats];
                 using (StreamReader sr = new StreamReader(stream))
                 {
-                    for (int i = 0; i < 13; i++)
+                    for (int i = 0; i < numberofstats; i++)
                     {
                         stats[i] = sr.ReadLine();
                     }
@@ -74,6 +75,7 @@ namespace Elementrix
                 nofisotopes.Content = "No of isotopes: " + stats[10];
                 electronaffinity.Content = "Electron Affinity(kJ/mol): " + stats[11];
                 yod.Content = "Year of discovery: " + stats[12];
+                sym.Text = stats[13];
             }
         }
     }

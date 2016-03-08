@@ -126,8 +126,50 @@
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\40.jpg">
       <PackagePath>Assets\40.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\41.jpg">
+      <PackagePath>Assets\41.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\42.jpg">
+      <PackagePath>Assets\42.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\43.jpg">
+      <PackagePath>Assets\43.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\44.jpg">
+      <PackagePath>Assets\44.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\45.jpg">
+      <PackagePath>Assets\45.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\46.jpg">
+      <PackagePath>Assets\46.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\47.jpg">
+      <PackagePath>Assets\47.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\48.jpg">
+      <PackagePath>Assets\48.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\49.jpg">
+      <PackagePath>Assets\49.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.jpg">
       <PackagePath>Assets\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\50.jpg">
+      <PackagePath>Assets\50.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\51.jpg">
+      <PackagePath>Assets\51.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\52.jpg">
+      <PackagePath>Assets\52.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\53.JPG">
+      <PackagePath>Assets\53.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\54.jpg">
+      <PackagePath>Assets\54.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\6.jpg">
       <PackagePath>Assets\6.jpg</PackagePath>
@@ -249,8 +291,50 @@
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\40.txt">
       <PackagePath>Assets\40.txt</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\41.txt">
+      <PackagePath>Assets\41.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\42.txt">
+      <PackagePath>Assets\42.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\43.txt">
+      <PackagePath>Assets\43.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\44.txt">
+      <PackagePath>Assets\44.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\45.txt">
+      <PackagePath>Assets\45.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\46.txt">
+      <PackagePath>Assets\46.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\47.txt">
+      <PackagePath>Assets\47.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\48.txt">
+      <PackagePath>Assets\48.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\49.txt">
+      <PackagePath>Assets\49.txt</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.txt">
       <PackagePath>Assets\5.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\50.txt">
+      <PackagePath>Assets\50.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\51.txt">
+      <PackagePath>Assets\51.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\52.txt">
+      <PackagePath>Assets\52.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\53.txt">
+      <PackagePath>Assets\53.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\54.txt">
+      <PackagePath>Assets\54.txt</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\6.txt">
       <PackagePath>Assets\6.txt</PackagePath>

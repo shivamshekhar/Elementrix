@@ -30,6 +30,7 @@
                 <TextBlock x:Name="EConfig" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="387" FontSize="13.333" FontFamily="Arial"/>
                 <TextBlock x:Name="trivia" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="626" Height="114" Width="370" FontSize="16" SelectionHighlightColor="#FF5D29D4" Foreground="White" FontFamily="Arial Black" FontStyle="Italic"/>
                 <TextBlock x:Name="AN" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="29" Height="49" Width="55" FontSize="42.667" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock x:Name="sym" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="285" Height="49" Width="55" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 <Button x:ConnectionId='5' x:Name="atomicn" Content="Atomic number :" Canvas.Left="12" Canvas.Top="413" Height="40" Width="190
                     " Background="Black" BorderThickness="1,1,1,1"                        />
                 <Button x:ConnectionId='6' x:Name="atomicw" Content="Atomic Weight :" Canvas.Left="12" Canvas.Top="453" Height="40" Width="190
@@ -84,6 +85,7 @@
                         <TextBlock x:Name="mcpuEConfig" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="387" FontSize="13.333" FontFamily="Arial"/>
                         <TextBlock x:Name="mcputrivia" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="626" Height="114" Width="370" FontSize="16" SelectionHighlightColor="#FF5D29D4" Foreground="White" FontFamily="Arial Black" FontStyle="Italic"/>
                         <TextBlock x:Name="mcpuAN" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="29" Height="49" Width="55" FontSize="42.667" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="mcpusym" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="285" Height="49" Width="55" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                         <Button x:Name="mcpuatomicn" Content="Atomic number :" Canvas.Left="12" Canvas.Top="413" Height="40" Width="190
                     " Background="Black" BorderThickness="1,1,1,1"/>
                         <Button x:Name="mcpuatomicw" Content="Atomic Weight :" Canvas.Left="12" Canvas.Top="453" Height="40" Width="190

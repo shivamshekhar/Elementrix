@@ -1,0 +1,14 @@
+Xenon
+Xenon is used in flash lamps and arc lamps. Xenon is also being used to search for hypothetical weakly interacting massive particles and as the propellant for ion thrusters in spacecraft.
+[Kr]4d105s25p6
+54
+131
+2.6
+5.9
+-111.8
+-108
+108
+38
+0
+1898
+Xe

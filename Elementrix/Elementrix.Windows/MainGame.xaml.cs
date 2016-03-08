@@ -26,7 +26,7 @@ namespace Elementrix
     /// </summary>
     public sealed partial class MainGame : Page
     {
-        const int totalcards = 40;
+        const int totalcards = 54,numberofstats=14;
         int[] usercardorder = new int[totalcards];
         int[] cpucardorder = new int[totalcards];
         int numberofusercards = totalcards/2, numberofcpucards = totalcards/2, cpucall = 0;
@@ -298,10 +298,10 @@ namespace Elementrix
             string cardstr = usercardorder[0].ToString();
             StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
             Stream stream = await file.OpenStreamForReadAsync();
-            string[] stats = new string[13];
+            string[] stats = new string[numberofstats];
             using (StreamReader sr = new StreamReader(stream))
             {
-                for (int i = 0; i < 13; i++)
+                for (int i = 0; i < numberofstats; i++)
                 {
                     stats[i] = sr.ReadLine();
                 }
@@ -318,10 +318,10 @@ namespace Elementrix
             cardstr = cpucardorder[0].ToString();
             file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
             stream = await file.OpenStreamForReadAsync();
-            stats = new string[13];
+            stats = new string[numberofstats];
             using (StreamReader sr = new StreamReader(stream))
             {
-                for (int i = 0; i < 13; i++)
+                for (int i = 0; i < numberofstats; i++)
                 {
                     stats[i] = sr.ReadLine();
                 }
@@ -756,10 +756,10 @@ namespace Elementrix
                 {
                     StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
                     Stream stream = await file.OpenStreamForReadAsync();
-                    string[] stats = new string[13];
+                    string[] stats = new string[numberofstats];
                     using (StreamReader sr = new StreamReader(stream))
                     {
-                        for (int i = 0; i < 13; i++)
+                        for (int i = 0; i < numberofstats; i++)
                         {
                             stats[i] = sr.ReadLine();
                         }
@@ -783,6 +783,7 @@ namespace Elementrix
                     nofisotopes.Content = "No of isotopes: " + stats[10];
                     electronaffinity.Content = "Electron Affinity(kJ/mol): " + stats[11];
                     yod.Content = "Year of discovery: " + stats[12];
+                    sym.Text = stats[13];
                 }
 
                 else
@@ -802,10 +803,10 @@ namespace Elementrix
                 {
                     StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
                     Stream stream = await file.OpenStreamForReadAsync();
-                    string[] stats = new string[13];
+                    string[] stats = new string[numberofstats];
                     using (StreamReader sr = new StreamReader(stream))
                     {
-                        for (int i = 0; i < 13; i++)
+                        for (int i = 0; i < numberofstats; i++)
                         {
                             stats[i] = sr.ReadLine();
                         }
@@ -828,6 +829,7 @@ namespace Elementrix
                     mcpunofisotopes.Content = "No of isotopes: " + stats[10];
                     mcpuelectronaffinity.Content = "Electron Affinity(kJ/mol): " + stats[11];
                     mcpuyod.Content = "Year of discovery: " + stats[12];
+                    mcpusym.Text = stats[13];
                 }
 
                 else
@@ -847,10 +849,10 @@ namespace Elementrix
             string cardstr = cpucardorder[0].ToString();
             StorageFile file = await StorageFile.GetFileFromApplicationUriAsync(new Uri("ms-appx:///Assets/" + cardstr + ".txt"));
             Stream stream = await file.OpenStreamForReadAsync();
-            string[] stats = new string[13];
+            string[] stats = new string[numberofstats];
             using (StreamReader sr = new StreamReader(stream))
             {
-                for (int i = 0; i < 13; i++)
+                for (int i = 0; i < numberofstats; i++)
                 {
                     stats[i] = sr.ReadLine();
                 }

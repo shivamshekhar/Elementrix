@@ -22,13 +22,13 @@
     <AppXManifest Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-07T12:42:19.488</Modified>
+      <Modified>2016-03-07T20:34:42.161</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\Elementrix.Windows.exe">
       <PackagePath>Elementrix.Windows.exe</PackagePath>
-      <Modified>2016-03-07T12:42:18.832</Modified>
+      <Modified>2016-03-07T20:34:40.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\1.jpg">
       <PackagePath>Assets\1.jpg</PackagePath>
@@ -170,9 +170,65 @@
       <PackagePath>Assets\40.jpg</PackagePath>
       <Modified>2016-03-07T12:40:57.654</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\41.jpg">
+      <PackagePath>Assets\41.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\42.jpg">
+      <PackagePath>Assets\42.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\43.jpg">
+      <PackagePath>Assets\43.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\44.jpg">
+      <PackagePath>Assets\44.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\45.jpg">
+      <PackagePath>Assets\45.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\46.jpg">
+      <PackagePath>Assets\46.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\47.jpg">
+      <PackagePath>Assets\47.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\48.jpg">
+      <PackagePath>Assets\48.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\49.jpg">
+      <PackagePath>Assets\49.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.320</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.jpg">
       <PackagePath>Assets\5.jpg</PackagePath>
       <Modified>2016-03-04T05:46:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\50.jpg">
+      <PackagePath>Assets\50.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\51.jpg">
+      <PackagePath>Assets\51.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\52.jpg">
+      <PackagePath>Assets\52.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\53.JPG">
+      <PackagePath>Assets\53.JPG</PackagePath>
+      <Modified>2016-03-07T20:21:04.385</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\54.jpg">
+      <PackagePath>Assets\54.jpg</PackagePath>
+      <Modified>2016-03-07T20:21:04.395</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\6.jpg">
       <PackagePath>Assets\6.jpg</PackagePath>
@@ -196,163 +252,219 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\1.txt">
       <PackagePath>Assets\1.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:55:38.706</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\10.txt">
       <PackagePath>Assets\10.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:55:51.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\11.txt">
       <PackagePath>Assets\11.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:56:01.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\12.txt">
       <PackagePath>Assets\12.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:56:12.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\13.txt">
       <PackagePath>Assets\13.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:56:26.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\14.txt">
       <PackagePath>Assets\14.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:56:42.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\15.txt">
       <PackagePath>Assets\15.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:56:50.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\16.txt">
       <PackagePath>Assets\16.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:57:10.953</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\17.txt">
       <PackagePath>Assets\17.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:57:20.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\18.txt">
       <PackagePath>Assets\18.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:57:31.685</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\19.txt">
       <PackagePath>Assets\19.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:57:54.893</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\2.txt">
       <PackagePath>Assets\2.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:04.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\20.txt">
       <PackagePath>Assets\20.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:11.253</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\21.txt">
       <PackagePath>Assets\21.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:21.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\22.txt">
       <PackagePath>Assets\22.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:29.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\23.txt">
       <PackagePath>Assets\23.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:36.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\24.txt">
       <PackagePath>Assets\24.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:45.020</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\25.txt">
       <PackagePath>Assets\25.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:58:59.392</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\26.txt">
       <PackagePath>Assets\26.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:08.328</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\27.txt">
       <PackagePath>Assets\27.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:15.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\28.txt">
       <PackagePath>Assets\28.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:26.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\29.txt">
       <PackagePath>Assets\29.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:33.949</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\3.txt">
       <PackagePath>Assets\3.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:40.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\30.txt">
       <PackagePath>Assets\30.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:47.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\31.txt">
       <PackagePath>Assets\31.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T18:59:56.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\32.txt">
       <PackagePath>Assets\32.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:00:03.867</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\33.txt">
       <PackagePath>Assets\33.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:00:13.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\34.txt">
       <PackagePath>Assets\34.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:00:26.925</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\35.txt">
       <PackagePath>Assets\35.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:00:34.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\36.txt">
       <PackagePath>Assets\36.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:00:42.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\37.txt">
       <PackagePath>Assets\37.txt</PackagePath>
-      <Modified>2016-03-07T12:23:23.504</Modified>
+      <Modified>2016-03-07T19:00:51.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\38.txt">
       <PackagePath>Assets\38.txt</PackagePath>
-      <Modified>2016-03-07T12:28:15.297</Modified>
+      <Modified>2016-03-07T19:00:58.092</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\39.txt">
       <PackagePath>Assets\39.txt</PackagePath>
-      <Modified>2016-03-07T12:40:57.649</Modified>
+      <Modified>2016-03-07T19:01:04.468</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\4.txt">
       <PackagePath>Assets\4.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:13.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\40.txt">
       <PackagePath>Assets\40.txt</PackagePath>
-      <Modified>2016-03-07T12:40:57.657</Modified>
+      <Modified>2016-03-07T19:01:21.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\41.txt">
+      <PackagePath>Assets\41.txt</PackagePath>
+      <Modified>2016-03-07T20:40:13.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\42.txt">
+      <PackagePath>Assets\42.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\43.txt">
+      <PackagePath>Assets\43.txt</PackagePath>
+      <Modified>2016-03-07T20:42:07.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\44.txt">
+      <PackagePath>Assets\44.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\45.txt">
+      <PackagePath>Assets\45.txt</PackagePath>
+      <Modified>2016-03-07T20:45:43.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\46.txt">
+      <PackagePath>Assets\46.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\47.txt">
+      <PackagePath>Assets\47.txt</PackagePath>
+      <Modified>2016-03-07T20:48:40.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\48.txt">
+      <PackagePath>Assets\48.txt</PackagePath>
+      <Modified>2016-03-07T20:50:39.037</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\49.txt">
+      <PackagePath>Assets\49.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\5.txt">
       <PackagePath>Assets\5.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:29.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\50.txt">
+      <PackagePath>Assets\50.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\51.txt">
+      <PackagePath>Assets\51.txt</PackagePath>
+      <Modified>2016-03-07T20:21:04.346</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\52.txt">
+      <PackagePath>Assets\52.txt</PackagePath>
+      <Modified>2016-03-07T20:51:52.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\53.txt">
+      <PackagePath>Assets\53.txt</PackagePath>
+      <Modified>2016-03-07T20:56:01.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\54.txt">
+      <PackagePath>Assets\54.txt</PackagePath>
+      <Modified>2016-03-07T20:59:40.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\6.txt">
       <PackagePath>Assets\6.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:36.973</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\7.txt">
       <PackagePath>Assets\7.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:43.412</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\8.txt">
       <PackagePath>Assets\8.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:50.086</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\9.txt">
       <PackagePath>Assets\9.txt</PackagePath>
-      <Modified>2016-03-04T05:46:12.000</Modified>
+      <Modified>2016-03-07T19:01:59.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\about button.png">
       <PackagePath>Assets\about button.png</PackagePath>
@@ -495,7 +607,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\MainGame.xbf">
       <PackagePath>MainGame.xbf</PackagePath>
-      <Modified>2016-03-05T11:21:19.189</Modified>
+      <Modified>2016-03-07T20:34:39.725</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
@@ -503,7 +615,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\reference.xbf">
       <PackagePath>reference.xbf</PackagePath>
-      <Modified>2016-03-07T12:42:18.344</Modified>
+      <Modified>2016-03-07T20:34:39.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\Shuffle.xbf">
       <PackagePath>Shuffle.xbf</PackagePath>
@@ -511,7 +623,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-07T12:42:19.201</Modified>
+      <Modified>2016-03-07T20:34:41.147</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

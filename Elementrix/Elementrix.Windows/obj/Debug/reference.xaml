@@ -53,6 +53,20 @@
             <ComboBoxItem Content="Strontium"/>
             <ComboBoxItem Content="Yttrium"/>
             <ComboBoxItem Content="Zirconium"/>
+            <ComboBoxItem Content="Niobium"/>
+            <ComboBoxItem Content="Molybdenum"/>
+            <ComboBoxItem Content="Technitium"/>
+            <ComboBoxItem Content="Ruthenium"/>
+            <ComboBoxItem Content="Rhodium"/>
+            <ComboBoxItem Content="Palladium"/>
+            <ComboBoxItem Content="Silver"/>
+            <ComboBoxItem Content="Cadmium"/>
+            <ComboBoxItem Content="Indium"/>
+            <ComboBoxItem Content="Tin"/>
+            <ComboBoxItem Content="Antimony"/>
+            <ComboBoxItem Content="Tellurium"/>
+            <ComboBoxItem Content="Iodine"/>
+            <ComboBoxItem Content="Xenon"/>
         </ComboBox>
 
         <Canvas x:Name="img" HorizontalAlignment="Center" Margin="0,60,0,0" VerticalAlignment="Top" Width="420
@@ -73,6 +87,7 @@
                 <TextBlock x:Name="EConfig" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="387" FontSize="13.333" FontFamily="Arial"/>
                 <TextBlock x:Name="trivia" Canvas.Left="15" TextWrapping="Wrap" Canvas.Top="626" Height="114" Width="370" FontSize="16" SelectionHighlightColor="#FF5D29D4" Foreground="White" FontFamily="Arial Black" FontStyle="Italic"/>
                 <TextBlock x:Name="AN" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="29" Height="49" Width="55" FontSize="42.667" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <TextBlock x:Name="sym" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="285" Height="49" Width="55" FontSize="32" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center"/>
                 <Button x:Name="atomicn" Content="Atomic number :" Canvas.Left="12" Canvas.Top="413" Height="40" Width="190
                     " Background="Black" BorderThickness="1,1,1,1"/>
                 <Button x:Name="atomicw" Content="Atomic Weight :" Canvas.Left="12" Canvas.Top="453" Height="40" Width="190

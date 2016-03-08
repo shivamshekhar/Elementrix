@@ -1,0 +1,14 @@
+Silver
+Silver possesses the highest electrical conductivity, thermal conductivity, and reflectivity of any metal. It occurs naturally in its pure state(native silver), as an alloy with gold and other metals, and in minerals such as argentite. Most silver is produced as a byproduct of copper, gold, lead, and zinc refining.
+[Kr]4d105s1
+47
+108
+1.9
+10.49
+961.78
+2162
+165
+38
+125.6
+-3000
+Ag

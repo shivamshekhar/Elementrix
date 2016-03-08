@@ -11,3 +11,4 @@ Vanadium was discovered in 1801 by Spanish Mexican scientist Andres Manuel del R
 26
 50.6
 1801
+V

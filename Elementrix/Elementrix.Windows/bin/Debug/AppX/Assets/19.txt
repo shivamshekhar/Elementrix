@@ -1,4 +1,4 @@
-Poatssium
+Potassium
 Potassium is a highly reactive metal that explodes when it comes in contact with water. But it is also an essential nutrient.
 [Ar] 4s1
 19
@@ -11,3 +11,4 @@ Potassium is a highly reactive metal that explodes when it comes in contact with
 24
 48.4
 1807
+K

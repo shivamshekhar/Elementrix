@@ -11,3 +11,4 @@ Titanium was discovered in 1791 by William Gregor, but was named by Martin Heinr
 26
 7.6
 1791
+Ti

@@ -1,0 +1,14 @@
+Cadmium
+Cadmium was predominantly used in rechargeable nickel-cadmium batteries. Nickel-cadmium cells have a nominal cell potential of 1.2 V. The cell consists of a positive nickel hydroxide electrode and a negative cadmium electrode plate separated by an alkaline electrolyte(like KOH).
+[Kr]4d105s2
+48
+112
+1.7
+8.65
+321.07
+767
+161
+38
+0
+1817
+Cd
