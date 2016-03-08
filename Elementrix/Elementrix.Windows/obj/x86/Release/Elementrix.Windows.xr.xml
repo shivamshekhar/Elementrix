@@ -45,7 +45,6 @@
       <RootProperty Name="BorderBrush" />
       <RootEvent Name="Tapped" />
     </RootType>
-    <RootType FullName="Elementrix.About" />
     <RootType FullName="Windows.UI.Xaml.Controls.MediaElement">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Height" />
@@ -56,6 +55,7 @@
       <RootProperty Name="Volume" />
       <RootProperty Name="IsLooping" />
     </RootType>
+    <RootType FullName="Elementrix.About" />
     <RootType FullName="Elementrix.finalpage" />
     <RootType FullName="Elementrix.help" />
     <RootType FullName="Windows.UI.Xaml.VisualStateManager">
@@ -146,6 +146,19 @@
     <RootType FullName="Windows.UI.Xaml.Visibility" />
     <RootType FullName="Elementrix.MainGame" />
     <RootType FullName="Elementrix.MainPage" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Items" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ComboBoxItem">
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Elementrix.reference" />
     <RootType FullName="Windows.UI.Xaml.Media.TranslateTransform" />
     <RootType FullName="Elementrix.Shuffle" />
   </Roots.RootTypes>

@@ -18,6 +18,7 @@
         <TextBlock x:Name="textBlock4" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Background images:" VerticalAlignment="Top" Margin="0,500,0,0" FontSize="46.667" TextAlignment="Center"/>
         <TextBlock x:Name="textBlock5" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Shashank Chaudhary" VerticalAlignment="Top" Margin="0,550,0,0" FontSize="40" TextAlignment="Center"/>
         <Button x:ConnectionId='1' x:Name="button" Content="Back" HorizontalAlignment="Center" Margin="0,700,0,0" VerticalAlignment="Top" FontSize="33.333"                       />
+        <MediaElement x:Name="intromusic" HorizontalAlignment="Left" Height="100" Margin="568,730,0,0" VerticalAlignment="Top" Width="100" Source="Assets/sun-after-rain.mp3" Volume="0.1" IsLooping="True"/>
 
     </Grid>
 </Page>

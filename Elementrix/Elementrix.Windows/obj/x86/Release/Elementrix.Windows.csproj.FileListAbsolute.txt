@@ -55,3 +55,8 @@ G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\qualifiers.
 G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\qualifiers.txt.intermediate
 G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
 G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\ProjectArchitectures.txt
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\x86\Release\reference.xbf
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\reference.g.i.cs
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\reference.g.cs
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\reference.xaml
+G:\codefest\Elementrix\Elementrix\Elementrix.Windows\obj\x86\Release\reference.xbf

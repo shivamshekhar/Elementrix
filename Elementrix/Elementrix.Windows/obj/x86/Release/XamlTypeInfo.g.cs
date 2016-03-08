@@ -124,7 +124,7 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[8];
+            _typeNameTable = new string[9];
             _typeNameTable[0] = "Elementrix.About";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
@@ -132,9 +132,10 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
             _typeNameTable[4] = "Elementrix.help";
             _typeNameTable[5] = "Elementrix.MainGame";
             _typeNameTable[6] = "Elementrix.MainPage";
-            _typeNameTable[7] = "Elementrix.Shuffle";
+            _typeNameTable[7] = "Elementrix.reference";
+            _typeNameTable[8] = "Elementrix.Shuffle";
 
-            _typeTable = new global::System.Type[8];
+            _typeTable = new global::System.Type[9];
             _typeTable[0] = typeof(global::Elementrix.About);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
@@ -142,7 +143,8 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
             _typeTable[4] = typeof(global::Elementrix.help);
             _typeTable[5] = typeof(global::Elementrix.MainGame);
             _typeTable[6] = typeof(global::Elementrix.MainPage);
-            _typeTable[7] = typeof(global::Elementrix.Shuffle);
+            _typeTable[7] = typeof(global::Elementrix.reference);
+            _typeTable[8] = typeof(global::Elementrix.Shuffle);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -182,7 +184,8 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
         private object Activate_4_help() { return new global::Elementrix.help(); }
         private object Activate_5_MainGame() { return new global::Elementrix.MainGame(); }
         private object Activate_6_MainPage() { return new global::Elementrix.MainPage(); }
-        private object Activate_7_Shuffle() { return new global::Elementrix.Shuffle(); }
+        private object Activate_7_reference() { return new global::Elementrix.reference(); }
+        private object Activate_8_Shuffle() { return new global::Elementrix.Shuffle(); }
 
         private global::Windows.UI.Xaml.Markup.IXamlType CreateXamlType(int typeIndex)
         {
@@ -237,9 +240,16 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
                 xamlType = userType;
                 break;
 
-            case 7:   //  Elementrix.Shuffle
+            case 7:   //  Elementrix.reference
                 userType = new global::Elementrix.Elementrix_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_7_Shuffle;
+                userType.Activator = Activate_7_reference;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 8:   //  Elementrix.Shuffle
+                userType = new global::Elementrix.Elementrix_Windows_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
+                userType.Activator = Activate_8_Shuffle;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;
@@ -577,5 +587,7 @@ namespace Elementrix.Elementrix_Windows_XamlTypeInfo
         }
     }
 }
+
+
 
 

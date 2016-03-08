@@ -58,10 +58,46 @@ Assets\35.JPG
 Assets\35.txt
 Assets\36.jpg
 Assets\36.txt
+Assets\37.JPG
+Assets\37.txt
+Assets\38.jpg
+Assets\38.txt
+Assets\39.jpg
+Assets\39.txt
 Assets\4.jpg
 Assets\4.txt
+Assets\40.jpg
+Assets\40.txt
+Assets\41.jpg
+Assets\41.txt
+Assets\42.jpg
+Assets\42.txt
+Assets\43.jpg
+Assets\43.txt
+Assets\44.jpg
+Assets\44.txt
+Assets\45.jpg
+Assets\45.txt
+Assets\46.jpg
+Assets\46.txt
+Assets\47.jpg
+Assets\47.txt
+Assets\48.jpg
+Assets\48.txt
+Assets\49.jpg
+Assets\49.txt
 Assets\5.jpg
 Assets\5.txt
+Assets\50.jpg
+Assets\50.txt
+Assets\51.jpg
+Assets\51.txt
+Assets\52.jpg
+Assets\52.txt
+Assets\53.JPG
+Assets\53.txt
+Assets\54.jpg
+Assets\54.txt
 Assets\6.jpg
 Assets\6.txt
 Assets\7.jpg
@@ -88,6 +124,7 @@ Assets\Periodic table Background6.png
 Assets\Periodic table Background7.png
 Assets\Periodic table Background8.png
 Assets\playbutton.png
+Assets\reference button.png
 Assets\Reset button.png
 Assets\SmallLogo.scale-100.png
 Assets\SplashScreen.scale-100.png
@@ -105,4 +142,5 @@ finalpage.xbf
 help.xbf
 MainGame.xbf
 MainPage.xbf
+reference.xbf
 Shuffle.xbf

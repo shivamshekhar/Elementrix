@@ -27,6 +27,7 @@ If you win your hand, you get the computer's card.
 If you lose, you lose your card to the computer.
 To win the game, collect the whole deck. " VerticalAlignment="Top" Height="546" Width="1374" FontSize="40" TextAlignment="Center"/>
         <Button x:ConnectionId='1' x:Name="back" Content="Back" HorizontalAlignment="Center" Margin="0,700,0,0" VerticalAlignment="Top" Height="55" Width="151" FontSize="26.667"                     />
+        <MediaElement x:Name="intromusic" HorizontalAlignment="Left" Height="100" Margin="568,730,0,0" VerticalAlignment="Top" Width="100" Source="Assets/sun-after-rain.mp3" Volume="0.1" IsLooping="True"/>
 
     </Grid>
 </Page>

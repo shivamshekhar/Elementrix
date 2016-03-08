@@ -22,13 +22,13 @@
     <AppXManifest Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-07T20:34:42.161</Modified>
+      <Modified>2016-03-08T19:06:43.902</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\Elementrix.Windows.exe">
       <PackagePath>Elementrix.Windows.exe</PackagePath>
-      <Modified>2016-03-07T20:34:40.563</Modified>
+      <Modified>2016-03-08T19:42:59.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\Assets\1.jpg">
       <PackagePath>Assets\1.jpg</PackagePath>
@@ -623,7 +623,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="G:\codefest\Elementrix\Elementrix\Elementrix.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-07T20:34:41.147</Modified>
+      <Modified>2016-03-08T19:06:43.681</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
